@@ -1,7 +1,7 @@
 
 
 ✨ Software Engineer based in Nairobi, Kenya
-📫 Former pastry chef pays attention to detail and self driven
+📫 Pastry chef pays attention to detail and self driven
 
 🌐 Connect with me:
 
