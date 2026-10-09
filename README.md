@@ -1,46 +1,36 @@
 # 👋 Hello! I am Rita Wandia 👋
 
+* ✨ **Software Engineer** based in Nairobi, Kenya
+* 📫 **Pastry Chef** who pays high attention to detail and is self-driven
 
-✨ Software Engineer based in Nairobi, Kenya
-📫 Pastry chef pays attention to detail and self driven
+### 🌐 Connect with me:
 
-🌐 Connect with me:
+[![Gmail Badge](https://shields.io)](mailto:wahomewandy@gmail.com)
 
-
-💻 Tech Stack:
 ## 💻 Tech Stack:
 
 ### 🌐 Backend:
-
-<img src="https://shields.io" alt="Node.js" />
-
-<img src="https://shields.io" alt="Express.js" />
-<img src="https://shields.io" alt="TypeScript" />
+![NodeJS](https://shields.io)
+![ExpressJS](https://shields.io)
+![TypeScript](https://shields.io)
 
 ### 🗄️ Databases:
-<img src="https://shields.io" alt="PostgreSQL" />
+![PostgreSQL](https://shields.io)
 
 ### 🛠️ Tools & Testing:
-<img src="https://shields.io" alt="npm" />
-<img src="https://shields.io" alt="Postman" />
+![NPM](https://shields.io)
+![Postman](https://shields.io)
 
 ### 🚀 Deployment / DevOps:
-<img src="https://shields.io" alt="GitHub" />
-<img src="https://shields.io" alt="Vercel" />
-<img src="https://shields.io" alt="Netlify" />
-<img src="https://shields.io" alt="Docker" />
-
+![GitHub](https://shields.io)
+![Vercel](https://shields.io)
+![Netlify](https://shields.io)
+![Docker](https://shields.io)
 
 ### 🎨 Frontend:
-<img src="https://shields.io" alt="HTML5" />
-<img src="https://shields.io" alt="CSS3" />
-<img src="https://shields.io" alt="JavaScript" />
-<img src="https://shields.io" alt="React" />
-<img src="https://shields.io" alt="Next.js" />
-<img src="https://shields.io" alt="Tailwind CSS" />
-
- 
-
-
-
-
+![HTML5](https://shields.io)
+![CSS3](https://shields.io)
+![JavaScript](https://shields.io)
+![React](https://shields.io)
+![NextJS](https://shields.io)
+![TailwindCSS](https://shields.io)
