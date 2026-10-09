@@ -1,3 +1,4 @@
+# 👋 Hello! I am Rita Wandia 👋
 
 
 ✨ Software Engineer based in Nairobi, Kenya
